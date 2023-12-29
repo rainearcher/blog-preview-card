@@ -15,14 +15,18 @@ body {
 
 .card {
     background-color: hsl(0, 0%, 100%);
-    width: 350px;
-    height: 525px;
     border-radius: 20px;
-    padding: 15px;
+    padding: 20px;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+.card img.illustration {
+    object-fit: contain;
+    border-radius: 10px;
+    margin-bottom: 20px;
 }
 
 .card .category {
@@ -35,7 +39,8 @@ body {
     border-radius: 5px;
 }
 
-.card h3 {
+.card .date {
+    margin-top: 15px;
     font-weight: 400;
     font-size: 16px;
 }
