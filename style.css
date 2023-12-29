@@ -22,9 +22,17 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    box-shadow: 10px 10px;
+    box-shadow: 5px 5px;
     border: solid;
     border-width: 2px;
+}
+
+.card:hover {
+    box-shadow: 10px 10px;
+}
+
+.card:hover h1 {
+    color: hsl(47, 88%, 63%);
 }
 
 .card img.illustration {
