@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/rainearcher/blog-preview-card](https://github.com/rainearcher/blog-preview-card)
+- Live Site URL: [https://rainearcher.github.io/blog-preview-card/](https://rainearcher.github.io/blog-preview-card/)
 
 ## My process
 
